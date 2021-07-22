@@ -3,12 +3,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I'm Aditya
 </h1>
 
-<h3> 💻  &nbsp;About Me</h3>
+<h3>👨‍💻 &nbsp;About Me</h3>
 
-Hi, I'm Aditya More B.E. 2nd year Information Technology student, 
-an inquisitive guy with passion for Development with troubleshooting skills to engineer responsive solutions.
-
+<p>
+Hi, I'm Aditya More Second Year undergrad pursuing degree in Information Technology. <br>
+A passionate Developer my passion for development lies with dreaming up ideas and making them come true with elegant interfaces!
 Apart from learning tech, you can find me indulged in nature & cosmos
+</p>
+
 - 🤔 Exploring cutting edge technologies;
 - 🌱 I’m currently learning Threejs; 
 - 💬 Ask me about anything, I am happy to help;
