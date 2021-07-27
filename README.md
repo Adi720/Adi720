@@ -62,6 +62,10 @@ Apart from learning tech, you can find me indulged in nature & cosmos
   <img align="left" alt="Aditya's LinkdeIN" width="30px" src="https://www.svgrepo.com/show/81143/linkedin.svg" />
 </a>
 
+<a href="https://leetcode.com/Adi720/">
+  <img align="left" alt="Aditya's LeetCode" width="30px" src="https://www.svgrepo.com/show/306328/leetcode.svg" />
+</a>
+
 <a href="mailto:adityamore360123@gmail.com">
   <img align="left" alt="Aditya's Gmail" width="30px" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" />
 </a>
