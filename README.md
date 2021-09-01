@@ -6,13 +6,13 @@
 <h3>👨‍💻 &nbsp;About Me</h3>
 
 <p>
-Hi, I'm Aditya More Second Year undergrad pursuing degree in Information Technology. <br>
+Hi, I'm Aditya More Third Year undergrad pursuing degree in Information Technology. <br>
 A passionate Developer my passion for development lies with dreaming up ideas and making them come true with elegant interfaces!
 Apart from learning tech, you can find me indulged in nature & cosmos
 </p>
 
 - 🤔 Exploring cutting edge technologies;
-- 🌱 I’m currently learning Threejs; 
+- 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume]
 
