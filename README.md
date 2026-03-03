@@ -10,7 +10,7 @@ Backend Engineer | Django & DRF | Scalable Systems
 
 ## 👨‍💻 About Me
 
-Backend Developer with 2 years of experience building scalable and maintainable web applications using Django and Django REST Framework.
+Backend Developer with 2.5 years of experience building scalable and maintainable web applications using Django and Django REST Framework.
 
 Focused on:
 - Designing clean backend architectures
