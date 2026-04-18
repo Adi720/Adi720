@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Backend Engineer | Django & DRF | Scalable Systems
+Backend Developer | Django & DRF | Scalable Systems | Gen AI
 </h3>
 
 ---
@@ -61,4 +61,4 @@ Focused on:
 
 [LinkedIn](https://www.linkedin.com/in/aditya-more-a76b251b0/) • 
 [LeetCode](https://leetcode.com/Adi720/) • 
-[Email](mailto:adityamore360123@gmail.com)
+[Email](mailto:adityamoresnm72@gmail.com)
