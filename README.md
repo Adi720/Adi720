@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Backend Developer | Django & DRF | Scalable Systems | Gen AI
+Backend Developer | Django & DRF | FastAPI |Scalable Systems | Gen AI
 </h3>
 
 ---
@@ -26,6 +26,7 @@ Focused on:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/-DRF-ff1709?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=redis&logoColor=white)
 
