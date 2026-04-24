@@ -10,7 +10,7 @@ Backend Software Engineer | Django & FastAPI | System Design | GenAI Integration
 
 ## 👨‍💻 About Me
 
-Backend Developer with 2.5 years of enterprise experience building scalable, asynchronous web applications and complex GRC (Governance, Risk, and Compliance) platforms. I specialize in turning complex business logic into high-performance, maintainable APIs.
+Backend Software Engineer with 2.5 years of enterprise experience. I specialize in translating complex business needs into scalable, production-ready backend systems.
 
 **Currently Focused On:**
 - 🏗️ Architecting clean, decoupled backend systems (Django & FastAPI)
@@ -46,6 +46,8 @@ Backend Developer with 2.5 years of enterprise experience building scalable, asy
 
 ### 🤖 AI, ML & Data Science
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9AB00?style=flat&logo=huggingface&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
