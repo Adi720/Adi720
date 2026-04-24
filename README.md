@@ -3,20 +3,34 @@
 </h1>
 
 <h3 align="center">
-Backend Developer | Django & DRF | FastAPI |Scalable Systems | Gen AI
+Backend Software Engineer | Django & FastAPI | System Design | GenAI Integration
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-Backend Developer with 2.5 years of experience building scalable and maintainable web applications using Django and Django REST Framework.
+Backend Developer with 2.5 years of enterprise experience building scalable, asynchronous web applications and complex GRC (Governance, Risk, and Compliance) platforms. I specialize in turning complex business logic into high-performance, maintainable APIs.
 
-Focused on:
-- Designing clean backend architectures
-- Writing optimized APIs
-- System Design fundamentals
-- Production-ready code
+**Currently Focused On:**
+- 🏗️ Architecting clean, decoupled backend systems (Django & FastAPI)
+- ⚡ Optimizing database queries and background task processing
+- 🤖 Integrating GenAI and LLM workflows into traditional backend architectures
+- 🌱 **Currently building:** Re-architecting an API Governance microservice in FastAPI and injecting LLM capabilities into a full-stack financial dashboard.
+
+---
+
+## 🚀 Featured Projects
+
+### [SecureAudit API Governance]
+*A high-performance API compliance and logging engine.*
+- **Tech:** FastAPI, PostgreSQL, Redis, JWT, Docker
+- **Highlights:** Built custom middleware for asynchronous log aggregation, implemented role-based access control (RBAC), and optimized indexing for high-frequency database writes.
+
+### [AlphaPredict: Full-Stack AI Financial Advisor]
+*A full-stack predictive dashboard with an integrated LLM Analyst.*
+- **Tech:** Django, Django REST, React, LangChain, LSTM Neural Networks
+- **Highlights:** Combined traditional time-series ML (LSTM) with a Generative AI agent (via LangChain) to synthesize real-time news and provide actionable risk sentiment alongside quantitative predictions.
 
 ---
 
@@ -30,30 +44,30 @@ Focused on:
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat&logo=redis&logoColor=white)
 
+### 🤖 AI, ML & Data Science
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
+
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-111111?style=flat&logo=tailwindcss)
 
-### 🛢 Database
+### 🛢 Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=92E969)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi720&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi720&show_icons=true&theme=algolia&hide_border=true" />
 </p>
 
 ---
