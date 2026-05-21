@@ -20,20 +20,6 @@ Backend Software Engineer with 2.5 years of enterprise experience. I specialize 
 
 ---
 
-## 🚀 Featured Projects
-
-### [SecureAudit API Governance]
-*A high-performance API compliance and logging engine.*
-- **Tech:** FastAPI, PostgreSQL, Redis, JWT, Docker
-- **Highlights:** Built custom middleware for asynchronous log aggregation, implemented role-based access control (RBAC), and optimized indexing for high-frequency database writes.
-
-### [AlphaPredict: Full-Stack AI Financial Advisor]
-*A full-stack predictive dashboard with an integrated LLM Analyst.*
-- **Tech:** Django, Django REST, React, LangChain, LSTM Neural Networks
-- **Highlights:** Combined traditional time-series ML (LSTM) with a Generative AI agent (via LangChain) to synthesize real-time news and provide actionable risk sentiment alongside quantitative predictions.
-
----
-
 ## 🛠 Tech Stack
 
 ### 🐍 Backend
@@ -63,6 +49,20 @@ Backend Software Engineer with 2.5 years of enterprise experience. I specialize 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [SecureAudit API Governance]
+*A high-performance API compliance and logging engine.*
+- **Tech:** FastAPI, PostgreSQL, Redis, JWT, Docker
+- **Highlights:** Built custom middleware for asynchronous log aggregation, implemented role-based access control (RBAC), and optimized indexing for high-frequency database writes.
+
+### [AlphaPredict: Full-Stack AI Financial Advisor]
+*A full-stack predictive dashboard with an integrated LLM Analyst.*
+- **Tech:** Django, Django REST, React, LangChain, LSTM Neural Networks
+- **Highlights:** Combined traditional time-series ML (LSTM) with a Generative AI agent (via LangChain) to synthesize real-time news and provide actionable risk sentiment alongside quantitative predictions.
 
 ---
 
