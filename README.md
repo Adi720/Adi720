@@ -10,7 +10,7 @@ Backend Software Engineer | Django & FastAPI | System Design | GenAI Integration
 
 ## 👨‍💻 About Me
 
-Backend Software Engineer with 2.5 years of enterprise experience. I specialize in translating complex business needs into scalable, production-ready backend systems.
+Backend Software Engineer with 3.5 years of enterprise experience. I specialize in translating complex business needs into scalable, production-ready backend systems.
 
 **Currently Focused On:**
 - 🏗️ Architecting clean, decoupled backend systems (Django & FastAPI)
