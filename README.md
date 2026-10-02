@@ -69,7 +69,7 @@ Backend Software Engineer with 3.5 years of enterprise experience. I specialize 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Adi720&show_icons=true&theme=algolia&hide_border=true&commits_year=2026&custom_title=2026%20GitHub%20Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adi720&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
 
 ---
